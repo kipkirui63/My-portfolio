@@ -7,3 +7,11 @@ function Form() {
   
     const sendEmail =(e)=>{
        e.preventDefault()
+
+       emailjs
+       .sendForm(
+        'service_m1q7z13',
+        'template_jkyvw9s',
+        refForm.current,
+        'uOhYZaCgks3SJrs1J'
+       )
