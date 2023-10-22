@@ -21,3 +21,10 @@ function Form() {
           console.log('Email sent successfully!', result.text);
           window.location.reload(false)
         },
+
+        (error) => {
+            alert("please try again")
+            console.error('Email could not be sent:', error.text);
+          }
+        );
+    }
