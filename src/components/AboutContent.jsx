@@ -6,3 +6,8 @@ import {
   faJsSquare,
   faReact,
   faPython,
+
+} from '@fortawesome/free-brands-svg-icons'
+import Loader from 'react-loaders'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import './AboutContent.css'
