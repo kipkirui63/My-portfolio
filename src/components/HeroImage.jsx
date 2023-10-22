@@ -20,7 +20,7 @@ function HeroImage() {
       </div>
 
       <div className='content'>
-        <p className="slide-in-left">HI I'M JUDY SIGILAI</p>
+        <p className="slide-in-left">HI I'M KIPKIRUI SANG</p>
         <h1 className="slide-in-left">Software Developer</h1>
        <div className='slide-in-left'>
         <Link to='/projects' className='btn '>Projects</Link>
