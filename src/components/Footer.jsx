@@ -34,7 +34,7 @@ function Footer() {
             </div>
 
           
-{/* 
+
         <div className='right'>
             <h4> About Me </h4>
             <p>I enjoy discussing new projects and design challenges</p>
@@ -58,6 +58,6 @@ function Footer() {
       
     </div>
   )
-} */}
+}
 
 export default Footer
