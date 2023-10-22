@@ -13,7 +13,7 @@ function Footer() {
                 <div>
                     <p>Nairobi,Kenya</p>
                 </div>
-              {/* </div>
+              </div>
                     <div className='phone'>
                  <h4>
                     <a href="tel:+254757625214">
@@ -34,7 +34,7 @@ function Footer() {
             </div>
 
           
-
+{/* 
         <div className='right'>
             <h4> About Me </h4>
             <p>I enjoy discussing new projects and design challenges</p>
