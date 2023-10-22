@@ -15,3 +15,9 @@ function Form() {
         refForm.current,
         'uOhYZaCgks3SJrs1J'
        )
+       .then(
+        (result) => {
+          alert('Message sent successfully')
+          console.log('Email sent successfully!', result.text);
+          window.location.reload(false)
+        },
