@@ -11,7 +11,7 @@
     grid-template-columns: repeat(2,1fr);
     grid-gap:40px;
 }
-/* .left{
+.left{
     height: 100%;
     max-width: 100%;
     display: flex;
@@ -42,7 +42,7 @@ h4{
     font-size: 1.2rem;
     padding-bottom: 0.7rem;
 }
-p{
+/* p{
     font-size: 1.2rem;
 }
 /* responsive design for mobile  */
