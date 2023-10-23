@@ -20,7 +20,7 @@ const AboutContent= () => {
           
             <p>
             I'm a highly motivated individual ready to make a difference in the world of technology. 
-             I have a strong grasp of JavaScript and react and I am always looking for ways to continue to grow my skill set and stay up to date with the latest trends.
+             I have a strong grasp of HTML,CSS,JavaScript,react,Python,Flask,MySQL,Postgresql and interacting with API's and I am always looking for ways to continue to grow my skill set and stay up to date with the latest trends.
              Driven by a desire to create engaging user experiences,
              I'm dedicated to creating code and products that are reliable and bug-free
             </p>
