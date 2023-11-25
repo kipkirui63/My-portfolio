@@ -1,9 +1,10 @@
 import image1 from '../assets/project1.png'
 import image2 from '../assets/project2.jpg'
 import image3 from '../assets/project3.jpg'
+import image4 from '../assets/project01.jpg'
 const ProjectCardData =[
     {
-        imgsrc:image1,
+        imgsrc:image4,
         title:"Farmat",
         text:'This is Farmart where farmers are able to purchase and sell their products.',
         view:"https://the-farmart.onrender.com/Farmat-Frontend",
