@@ -4,9 +4,16 @@ import image3 from '../assets/project3.jpg'
 const ProjectCardData =[
     {
         imgsrc:image1,
-        title:"HireGrove",
+        title:"Farmat",
+        text:'This is Farmart where farmers are able to purchase and sell their products.',
+        view:"https://the-farmart.onrender.com/Farmat-Frontend",
+        source:"https://github.com/kipkirui63/wine-Cart"
+    },
+    {
+        imgsrc:image1,
+        title:"Wine-Cart",
         text:'This is wine-app where a user registers and can be able to purchase the wine of their choice.',
-        view:"https://github.com/kipkirui63/wine-Cart",
+        view:"https://wine-reference-app.vercel.app/",
         source:"https://github.com/kipkirui63/wine-Cart"
     },
     {
