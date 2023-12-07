@@ -8,7 +8,7 @@ const ProjectCardData =[
         title:"Farmat",
         text:'This is Farmart where farmers are able to purchase and sell their products.',
         view:"https://the-farmart.onrender.com/Farmat-Frontend",
-        source:"https://github.com/kipkirui63/wine-Cart"
+        source:"https://the-farmart.onrender.com/"
     },
     {
         imgsrc:image1,
